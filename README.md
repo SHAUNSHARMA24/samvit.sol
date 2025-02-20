@@ -9,7 +9,7 @@ A simple Ethereum smart contract that allows users to vote on candidates with **
 - Emits events on every vote for easy integration with front-end apps.
 
 ## 📄 Smart Contract
-**Contract Address:** `Samvit.sol`  
+**Contract Address:** `0x0F07d174dB649E650F16A9C22E9B96477929b261`  
 
 ## 🔧 Usage
 1. Deploy the contract to the Ethereum network.  
